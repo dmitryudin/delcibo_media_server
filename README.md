@@ -2,7 +2,7 @@
 
 Создать имя пользователя</br>
 ```
-  mysql>
+  mysql
   CREATE USER 'delcibo'@'delcibodatabaseserv.ddns.net' IDENTIFIED BY '9174253qQ';
 
 ```
