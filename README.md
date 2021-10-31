@@ -2,6 +2,7 @@
 
 Создать имя пользователя</br>
 ```
+  apt-get install mysql-server
   mysql
   CREATE USER 'user'@'localhost' IDENTIFIED BY 'pswrd';
   GRANT ALL PRIVILEGES ON * . * TO 'user'@'localhost';
